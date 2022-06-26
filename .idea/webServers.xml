@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f74172e8-2bf3-4224-a90a-c8ac3e66c98c" name="192.168.5.45">
+        <fileTransfer rootFolder="/home/pi/ICTS-Projekt" accessType="SFTP" host="192.168.5.45" port="22" sshConfigId="1722190e-7abd-49a1-98d3-10ee1fe9c482" sshConfig="pi@192.168.5.45:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
